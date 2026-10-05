@@ -20,3 +20,6 @@ team/team.env
 # recorder output (large)
 video/out/
 video/video.env
+video_demo.md
+video_script_phase1.md
+

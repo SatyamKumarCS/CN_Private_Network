@@ -2,6 +2,8 @@
 
 A private, secure and load-balanced network platform built across **3 Macs** for the Computer Networks course project.
 
+> 🎥 **Demo Video:** [Watch the Full Project Demonstration (Google Drive)](https://drive.google.com/file/d/1XXsFh4M2UwdjVBopO7DuX3vYdPd1IA-r/view?usp=sharing)
+
 The platform demonstrates a complete, isolated private request pipeline:
 
 1. **Private Name Resolution:** clients query a private DNS server (`dnsmasq`) for `app.teamX.test`, which answers with a 30s TTL. The name does not exist on public DNS.
@@ -155,6 +157,6 @@ curl -i -H 'If-None-Match: "cn-cache-v1"' https://app.teamX.test/api/cache   # 3
 
 ## Documentation
 
-- [Video demo + Wireshark guide](video_demo.md)
+- [Project Demo Video (Google Drive)](https://drive.google.com/file/d/1XXsFh4M2UwdjVBopO7DuX3vYdPd1IA-r/view?usp=sharing)
 - [TLS & Keychain Trust Guide](docs/tls-setup.md)
 - [Demonstration Commands](docs/demo-commands.md)

@@ -18,7 +18,7 @@ The platform demonstrates a complete, isolated private request pipeline:
 | ----------------- | ---------- | ----- | ------------------------------------------------------------------------------ |
 | **Satyam Kumar**  | 2401010428 | Mac 1 | **Tech Lead**. Private DNS server (`dnsmasq`), test client, Wireshark captures |
 | **Krishna Verma** | 2401010240 | Mac 2 | Edge reverse proxy: nginx TLS / HTTPS / HTTP/2 load balancer, mkcert CA        |
-| **Akshit Vats**   | _TBD_      | Mac 3 | Backend servers A (port 3001) and B (port 3002), Python Flask REST API         |
+| **Akshit Vats**   | 2401020085 | Mac 3 | Backend servers A (port 3001) and B (port 3002), Python Flask REST API         |
 
 ---
 
